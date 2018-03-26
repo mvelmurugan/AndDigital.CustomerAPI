@@ -8,7 +8,7 @@ using System.Linq;
 using Xunit;
 
 namespace AndDigital.Customer.Tests {
-    public class CustomerControllerTests {
+    public class CustomerControllerTests { 
 
         [Fact]
         public void Get_Without_CustomerId_Returns_All_Phone_Numbers() {
